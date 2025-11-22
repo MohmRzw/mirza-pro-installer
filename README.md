@@ -3,13 +3,19 @@
 این پروژه **فقط یک اسکریپت نصب آسان** برای ربات **Mirza Pro** است.
 سازنده اصلی ربات: **[Mahdi](https://github.com/mahdiMGF2/mirza_pro/)**
 
----## ویدیو آموزشی
+## ویدیو آموزشی
 
-[![آموزش نصب Mirza Pro](https://img.youtube.com/vi/f0FHxL7iYsE/0.jpg)](https://youtu.be/f0FHxL7iYsE)
+<a href="https://youtu.be/f0FHxL7iYsE" target="_blank">
+  <img src="https://img.youtube.com/vi/f0FHxL7iYsE/maxresdefault.jpg"
+       alt="آموزش نصب Mirza Pro"
+       width="800"
+       style="border-radius: 10px;">
+</a>
 
 > برای مشاهده ویدیو روی تصویر بالا کلیک کنید.
----
-## شروع سریع نصب آسان میرزا پرو:
+
+
+شروع سریع نصب آسان میرزا پرو:
 
 1. اسکریپت را دانلود کنید:
 
