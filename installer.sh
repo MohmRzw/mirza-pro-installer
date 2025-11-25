@@ -118,6 +118,8 @@ install_mirza() {
     apt-get install -y apache2 mariadb-server git curl ufw phpmyadmin certbot python3-certbot-apache \
         php8.2 libapache2-mod-php8.2 php8.2-{mysql,curl,mbstring,xml,zip,gd,bcmath} 2>/dev/null
 
+    ufw allow 22/tcp >/dev/null 2>&1
+    ufw allow OpenSSH >/dev/null 2>&1
     ufw allow 'Apache Full' >/dev/null 2>&1
     ufw --force enable >/dev/null 2>&1
     a2enmod rewrite >/dev/null 2>&1
